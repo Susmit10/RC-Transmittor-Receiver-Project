@@ -1,6 +1,6 @@
 /*
     DIY Arduino based RC Transmitter Project
-               Receiver Code 
+               Receiver Code
 
   by Susmit Rudra
 */
